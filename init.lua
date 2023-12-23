@@ -216,6 +216,7 @@ require('lazy').setup({
 
   require 'lewis.plugins.autoformat',
   require 'lewis.plugins.debug',
+  require 'lewis.plugins.nvim-tree'
 
 }, {})
 
